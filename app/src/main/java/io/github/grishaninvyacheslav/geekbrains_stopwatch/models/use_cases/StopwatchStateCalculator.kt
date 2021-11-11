@@ -1,4 +1,7 @@
-package io.github.grishaninvyacheslav.geekbrains_stopwatch
+package io.github.grishaninvyacheslav.geekbrains_stopwatch.models.use_cases
+
+import io.github.grishaninvyacheslav.geekbrains_stopwatch.StopwatchState
+import io.github.grishaninvyacheslav.geekbrains_stopwatch.models.repositories.TimestampProvider
 
 class StopwatchStateCalculator(
     private val timestampProvider: TimestampProvider,
