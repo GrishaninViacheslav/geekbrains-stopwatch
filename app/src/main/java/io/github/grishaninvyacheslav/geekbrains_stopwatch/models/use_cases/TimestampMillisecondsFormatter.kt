@@ -1,4 +1,4 @@
-package io.github.grishaninvyacheslav.geekbrains_stopwatch
+package io.github.grishaninvyacheslav.geekbrains_stopwatch.models.use_cases
 
 class TimestampMillisecondsFormatter() {
 

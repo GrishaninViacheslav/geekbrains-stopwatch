@@ -1,5 +1,6 @@
-package io.github.grishaninvyacheslav.geekbrains_stopwatch
+package io.github.grishaninvyacheslav.geekbrains_stopwatch.models.use_cases
 
+import io.github.grishaninvyacheslav.geekbrains_stopwatch.StopwatchStateHolder
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
