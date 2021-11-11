@@ -1,0 +1,2 @@
+rootProject.name = "geekbrains-stopwatch"
+include ':app'
