@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
             return System.currentTimeMillis()
         }
     }
+
     private val stopwatchListOrchestrator = StopwatchListOrchestrator(
         StopwatchStateHolder(
             StopwatchStateCalculator(
